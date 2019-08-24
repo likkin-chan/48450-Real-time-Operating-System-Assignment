@@ -11,6 +11,6 @@ Specifically, Thread A writes one line of data from the data.txt to the pipe. (n
 
 * To compile the program, please ensure that gcc is installed and run the following command:
 ```
-gcc prog_1.c -o prog_1 -lpthread -lrt -Wall
+gcc prog_1.c -o prog_1 -lpthread -lrt
 ```
 * Please see the project specification/description from the Specification folder
